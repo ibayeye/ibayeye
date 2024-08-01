@@ -1,5 +1,5 @@
 <!--
-**Asep Sutrisna Suhada Putra/Asut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Muhamad Iqbal Ramadan/Iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <h1>Hi 👋, I'M Asep Sutrisna Suhada Putra</h1>
-    <h3>A student from Bandung, Indonesia</h3>
+    <h1>Hi 👋, I'M Muhamad Iqbal Ramadan</h1>
+    <h3>A student from Sumedang, Indonesia</h3>
   <h3>I Study at Bandung University of Technology</h3>
 </div>
 
 - 🌱 I am an informatics engineering student, and now I'm studying systems analysis
 
-- 💬 Ask me about **react, express, sql, kotlin, UI/UX, Java, JavaScript, C#, CSS, FireBase, PHP, AndroidDev, SystemsAnalysis**
+- 💬 Ask me about **react, express, sql, flutter, UI/UX, Java, JavaScript, C#, CSS, FireBase, PHP, Laravel, AndroidDev, SystemsAnalysis**
 
-- 📫 How to reach me **Asep Sutrisna Suhada Putra at LinkedIn**
+- 📫 How to reach me **Muhamad Iqbal Ramadan at LinkedIn**
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/asep-sutrisna-suhada-putra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asep sutrisna suhada putra" height="30" width="40" /></a>
