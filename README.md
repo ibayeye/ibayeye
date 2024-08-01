@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/asep-sutrisna-suhada-putra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asep sutrisna suhada putra" height="30" width="40" /></a>
-<a href="https://www.instagram.com/callasut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callasut" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iqbalramadann_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callasut" height="30" width="40" /></a>
 
 ### Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
