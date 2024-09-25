@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I am an informatics engineering student, and now I'm studying systems analysis
 
-- 💬 Ask me about **react, express, sql, flutter, UI/UX, Java, JavaScript, C#, CSS, FireBase, PHP, Laravel, AndroidDev, SystemsAnalysis**
+- 💬 Ask me about **react, express, sql, flutter, Java, JavaScript, CSS, FireBase, PHP, Laravel**
 
 - 📫 How to reach me **Muhamad Iqbal Ramadan at LinkedIn**
 
