@@ -11,8 +11,8 @@
 ---
 
 ### 🌱 About Me
-- I am currently studying **Systems Analysis** in Informatics Engineering.
-- 💬 Ask me about **React, Express, SQL, Flutter, Java, JavaScript, CSS, Firebase, PHP, and Laravel**.
+- I am currently studying System Analysis, Web Programming and Mobile Programming in Informatics Engineering.
+- 💬 Ask me about **React, Express, SQL, Flutter, Java, CSS, Firebase and Laravel**.
 - 📫 You can reach me on **[LinkedIn](https://www.linkedin.com/in/muhamad-iqbal-ramadan/)**.
 
 ---
