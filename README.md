@@ -62,9 +62,9 @@
 ### 🚀 Projects
 | **Tech Stack** | **Projects** |
 | -------------- | ------------ |
-| **Kotlin**     | [SoccerZoneTime](https://github.com/ibayeye/SoccerZoneTimeCompose), [StoryApps](https://github.com/ibayeye/StoryApps), [GithubUserApp](https://github.com/ibayeye/AplikasiGithubUser) |
+| **Flutter**     | [CashFlow](https://github.com/ibayeye/cash-flow), [AlFish](https://github.com/ibayeye/ALFISH), [SAPU](https://github.com/ibayeye/SAPU) |
 | **Java**       | [RULA](https://github.com/ibayeye/RULA) |
-| **C#**         | [Nusantara Game](https://github.com/ibayeye/GemastikProject-Game-Development), [Roy Story](https://github.com/ibayeye/Roy_Story_EscapeTheJungle) |
+| **Laravel**         | [Laravote](https://github.com/ibayeye/Laravote), [CoffeePass](https://github.com/ibayeye/coffee-pass) |
 | **JavaScript** | [Project Management Office](https://github.com/ibayeye/PMO-Admin), [MERN Stack Project](https://github.com/ibayeye/MERN) |
 
 ---
